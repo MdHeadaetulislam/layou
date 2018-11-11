@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>foodbank</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+   <div class="pranto">
+       <div class="box1">
+             <ul>
+                 <li><a href="http://kandaribd.com"><img src="C:\Users\iampr\Desktop\web design\kandari.png" height="200" width="300"/></a></li>
+                 <li><a href="http://google.com"><img src="C:\Users\iampr\Desktop\web design\google.jpg" height="200" width="300"/></a></li>
+                 <li><a href="https://www.facebook.com/md.headaetulislam"><img src="C:\Users\iampr\Desktop\web design\pranto.jpg" height="200"/></a></li>
+                 <li><a href="https://www.linkedin.com/in/md-headaetul-islam-97b761170/"><img src="C:\Users\iampr\Desktop\web design\love.jpg" height="200"/></a></li>
+                 <li><a href="https://www.facebook.com/hasninzerin.rasha"><img src="C:\Users\iampr\Desktop\web design\rasha.jpg" height="200" width="300"/></a></li>
+             </ul>  
+ 
+       </div>
+    <div class="main_container">
+          <div class="top_head">
+                  <h1>Last Food</h1>
+          </div>
+          <div class="nav">
+                <div id="container">
+                        <ul>
+                            <li>Home</li>
+                            <li>About us</li>
+                            <li>Time line</li>
+                            <li>Post</li>
+                            <li>News feed</li>
+                        </ul>  
+                      </div>
+          </div>
+          <div class="banner">
+                   <textarea name="post" rows="6" cols="109" placeholder="Post"></textarea>
+          </div>
+          <div class="content">
+                 
+          </div>
+          <div class="footer">
+                    @copy right Last food.com sponsor Robi , teletalk , Eat us<br>
+                    Mobile : 01740703047
+                    <a href="mailto:md.headaetulislam@gmail.com">Email Us</a>
+          </div>
+
+        </div>
+        <div class="box3">
+                 <input type="text" placeholder="Search Here" >
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <h1>Our Policy</h1><br>
+                 <div id=shanto>
+                 <ul>
+                     
+                        <li>
+                          <h3>Make everyone happy</h3> 
+                        </li>
+                        <li>
+                        <h3>Hope for the best</h3>
+                        </li>
+                        <li>
+                         <h3>Make it happen </h3>
+                        </li>
+                        <li>
+                         <h3>Never give up</h3>
+                        </li>
+                 </ul>
+                 </div>
+            
+        </div>
+        </div>
+</body>
+</html>>
